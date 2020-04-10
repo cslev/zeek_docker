@@ -34,7 +34,7 @@ RUN apt-get update && \
     apt-get autoremove --purge -y && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/* && \
-    cp bashrc_template /root/.bashr && \
+    cp bashrc_template /root/.bashrc && \
     source /root/.bashrc
 
 ENTRYPOINT ["bash"]
