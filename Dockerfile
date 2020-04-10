@@ -15,7 +15,7 @@ ENV DEPS  net-tools\
           bison \
           zlib1g-dev \
           python3 \
-          pytohn-dev \
+          python-dev \
           swig \
           libmaxminddb-dev \
           sendmail
