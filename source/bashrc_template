@@ -20,3 +20,4 @@ export PATH=$PATH:/usr/local/sbin:/usr/sbin:/sbin
 
 #zeek
 export PATH=$PATH:/usr/local/zeek/bin
+export ZEEK=/usr/local/zeek
